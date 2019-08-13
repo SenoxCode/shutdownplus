@@ -13,7 +13,7 @@ version = 1.0
 ascii_banner = pyfiglet.figlet_format(pythonname + " " +  str(version))
 print(ascii_banner)
 
-print("\ninsbot.py 1.0 by Senox")
+print("\nshutdown+.py 1.0 by Senox")
 time.sleep(0.3)
 print("https://github.com/SenoxCode\n\n\n")
 time.sleep(0.3)
