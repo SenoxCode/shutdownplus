@@ -9,3 +9,4 @@ Working on WINDOWS only!
 4. If you use this first time, open the "install.bat"
 5. Open the "start.bat"
 ```
+I WILL NOT TAKE RESPONSIBILITY FOR ANY DAMAGE
